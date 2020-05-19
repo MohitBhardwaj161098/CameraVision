@@ -1,0 +1,1 @@
+C:\Users\mike\source\repos\CameraVision\CameraApp\CameraApp.csproj;x86
